@@ -8,7 +8,7 @@
 
 - I'm a student in HaNoi UniverSity of Science and Technology
 
-- 🌱 I'm a Python programming engineer
+- 🌱 I'm a Java programming engineer
 
 
 
